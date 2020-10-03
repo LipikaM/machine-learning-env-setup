@@ -2,6 +2,6 @@
 
 Windows environment setup
 
-![](https://docs.conda.io/en/latest/miniconda.html)
+![site](https://docs.conda.io/en/latest/miniconda.html)
 
 
